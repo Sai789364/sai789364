@@ -22,7 +22,7 @@ With a keen interest in programming, problem-solving, and development. My passio
  -** [Memories](https://github.com/Sai789364/Memories-project) TechStack used : React Js, MongoDb, NodeJs, Express JS, CSS
 
 
-  -**[Weatherify](https://github.com/Sai789364/Weatherify-project)](https://65c2727bd309341940a4d617--playful-khapse-a8c5f1.netlify.app/) Techstack: HTML, CSS, JavaScript
+  -**[Weatherify](https://github.com/Sai789364/Weatherify-project) Techstack: HTML, CSS, JavaScript
 
 
  <p align="left">
