@@ -3,7 +3,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
   <h3 align="center">
-👋Hello! I'm a Computer Science student at Chaitanya Bharathi Institute of Technology (CBIT), driven by a passion for technology and innovation.,
+👋Hello! I'm a IT student at Chaitanya Bharathi Institute of Technology (CBIT), driven by a passion for technology and innovation.,
 With a keen interest in programming, problem-solving, and development. My passions lie in Machine Learning, Web Development, and Competitive Programming.  </h3>
 <p align="center">  
 
@@ -17,18 +17,14 @@ With a keen interest in programming, problem-solving, and development. My passio
   
 ### Projects:
   
- -**[School Management System](https://github.com/yashwanth78-bobby/school-management-system) Techstack used : React JS,Node JS,Express JS,MongoDB
+ -**[Agri-Marketing](https://github.com/Sai789364/Agri-market) Techstack used : React JS,Node JS,Express JS,MongoDB
 
- -** [Tours-Travels Booking System](https://github.com/yashwanth78-bobby/tours-travels-booking-system) TechStack used : React Js, MongoDb, NodeJs, Express JS, CSS
+ -** [Memories](https://github.com/Sai789364/Memories-project) TechStack used : React Js, MongoDb, NodeJs, Express JS, CSS
 
- -**[Movie Recommendation System](https://github.com/yashwanth78-bobby/movie-recommender-system) Techstack: Streamlit, Numpy, Pandas, Scikit Learn
- 
- -**[IPL Win Predictor ](https://github.com/yashwanth78-bobby/ipl-win-predictor) Techstack: Streamlit, Numpy, Pandas, Scikit Learn
 
-  -**[To-Do-List ](https://65c2727bd309341940a4d617--playful-khapse-a8c5f1.netlify.app/) Techstack: HTML, CSS, JavaScript
+  -**[Weatherify](https://github.com/Sai789364/Weatherify-project)](https://65c2727bd309341940a4d617--playful-khapse-a8c5f1.netlify.app/) Techstack: HTML, CSS, JavaScript
 
-   -**[React-News-App](https://github.com/yashwanth78-bobby/newsapp-react-api) Techstack: React JS, Tailwind CSS
- 
+
  <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
