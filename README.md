@@ -20,9 +20,10 @@ With a keen interest in programming, problem-solving, and development. My passio
  -**[Agri-Marketing](https://github.com/Sai789364/Agri-market) Techstack used : React JS,Node JS,Express JS,MongoDB
 
  -** [Memories](https://github.com/Sai789364/Memories-project) TechStack used : React Js, MongoDb, NodeJs, Express JS, CSS
-
-
+ 
   -**[Weatherify](https://github.com/Sai789364/Weatherify-project) Techstack: HTML, CSS, JavaScript
+
+  -** [iNotebook](https://github.com/Sai789364/iNotebook-project) TechStack used : React Js, MongoDb, NodeJs, Express JS, CSS
 
 
  <p align="left">
